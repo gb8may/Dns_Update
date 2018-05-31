@@ -3,7 +3,6 @@
 ###########################################
 #         Autor: Mayara Gouveia           #
 #           gb8may@gmail.com              #
-# Script que gera atualizacoes para o DNS #
 #              Release 1.0                #
 ###########################################
 
