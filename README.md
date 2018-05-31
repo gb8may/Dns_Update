@@ -1,4 +1,5 @@
 Author: Mayara Gouveia
+
 Contact: gb8may@gmail.com
 
 This script make a filter to show your updated IP information and may be used to update your dynamic DNS configuration.
